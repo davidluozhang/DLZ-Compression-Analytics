@@ -1,0 +1,3 @@
+/Users/dluozhang/CLionProjects/PERSoftwareChallenge22_23/cmake-build-debug/CMakeFiles/PERSoftwareChallenge22_23.dir
+/Users/dluozhang/CLionProjects/PERSoftwareChallenge22_23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dluozhang/CLionProjects/PERSoftwareChallenge22_23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
